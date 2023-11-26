@@ -1,2 +1,2 @@
-# Projects
-A culmination of school and personal projects.
+# Gaussian Elimination
+Solving a system of equations using Gaussian Elimination.
